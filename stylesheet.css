@@ -1,0 +1,17 @@
+h1{background-color: rgb(61, 124, 124);
+    height: 50px;
+    color:aliceblue;
+}
+p{
+color:rgb(255, 255, 255); 
+font-size: large;
+font-style: italic;
+background-color:rgb(61, 124, 124);
+}
+ul{
+    list-style:none;
+
+}
+example{
+    width: px;
+}
