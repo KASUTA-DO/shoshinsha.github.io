@@ -1,0 +1,1 @@
+# shoshinsha.github.io
